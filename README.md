@@ -25,3 +25,4 @@ Simple Interest = 100
 
 ## Author
 Vu Hien
+This is a typo fix
